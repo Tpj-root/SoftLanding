@@ -49,5 +49,7 @@ echo "alias sl='softlanding'" >> ~/.bashrc && source ~/.bashrc
 
 
 
-## To convert a video to a GIF 
+## To convert a video to a GIF
+```
 ffmpeg -i l.mkv -vf "fps=10,scale=720:-1:flags=lanczos" -c:v gif output.gif
+```
