@@ -29,6 +29,25 @@ sudo make install
 
 
 ## You can add the alias to your .bashrc with this single line command
-
+```
 echo "alias sl='softlanding'" >> ~/.bashrc && source ~/.bashrc
+```
 
+
+
+
+
+**`Soft Landing animation :`**
+
+![Soft Landing](SoftLanding.gif)
+
+
+
+
+
+
+
+
+
+## To convert a video to a GIF 
+ffmpeg -i l.mkv -vf "fps=10,scale=720:-1:flags=lanczos" -c:v gif output.gif
