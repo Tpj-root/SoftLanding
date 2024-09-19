@@ -7,7 +7,8 @@ Soft Landing is a terminal command that mimics the behavior of the sl command.
 
 I want to pray every day for Williams and Wilmore, that they return safely to Earth.
 
-While working, I often mistype "sl," and when I do, the Steam Locomotive animation appears. 
+While working, I often mistype "sl," and when I do, the Steam Locomotive animation appears.
+
 I want to change that to "SoftLanding" for Williams and Wilmore—so I can pray every minute, even while I'm working.
 
 That's why I created this SoftLanding project.
