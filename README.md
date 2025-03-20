@@ -45,12 +45,16 @@ echo "alias sl='softlanding'" >> ~/.bashrc && source ~/.bashrc
 
 
 
-
-
-
-
-
 ## To convert a video to a GIF
 ```
 ffmpeg -i l.mkv -vf "fps=10,scale=720:-1:flags=lanczos" -c:v gif output.gif
 ```
+
+
+## The Dragon capsule splashes down
+
+![Soft Landing](safe.gif)
+
+
+NASA astronauts Sunita "Suni" Williams and Barry "Butch" Wilmore have safely returned to Earth after an extended nine-month mission aboard the International Space Station (ISS). Their return occurred on March 18, 2025, when they splashed down off the coast of Florida aboard SpaceX's Dragon Freedom spacecraft, alongside SpaceX Crew-9 mission members Nick Hague (NASA) and Aleksandr Gorbunov (Roscosmos).
+
